@@ -1,4 +1,4 @@
-Springboot project
+## Springboot project Dependencias
 
 1. Springboot devtools
 2. lombok
@@ -8,7 +8,7 @@ Springboot project
 6. spring security
 7. spring web
 
-Pasos de la creación de packetes para el desarrollo del examen 2 de DAD
+## Pasos de la creación de packetes para el desarrollo del examen 2 de DAD
 
 1. Entity
 2. Exceptions
